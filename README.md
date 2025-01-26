@@ -7,3 +7,4 @@
   yakaki
   andytampan
   megarion
+  helloffame
