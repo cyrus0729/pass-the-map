@@ -1,0 +1,37 @@
+map_making_PassTheMap= Map_Making
+map_making_PassTheMap_1= Pass The Map 
+map_making_PassTheMap_madeline=
+[madeline right normal]
+wow this is {~}such a room{/~}\
+[theo left normal]
+1000 bubbles
+[madeline right normal]
+no theo this is the wrong map
+[theo left normal]
+1000 bubbles
+[madeline right normal]
+theo i hate you
+
+map_making_PassTheMap_aletris= 
+yeet machine
+TWO
+a chance to jader from hit game baba is yuor'e
+welcome to aletris tech compendium
+
+map_making_PassTheMap_hellothere= 
+Hello there.
+Looks like you are stuck.
+Next time, try dashing right instead.
+I'll send you back.
+
+map_making_PassTheMap_a1=
+Collect. The. Heart.
+map_making_PassTheMap_a1=
+Difficulty: Intermediate
+
+map_making_PassTheMap_friends=
+[madeline right normal]
+maybe the real 1000 bubbles were the friends we made along the way
+
+map_making_PassTheMap_l=
+L
