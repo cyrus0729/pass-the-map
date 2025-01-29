@@ -7,10 +7,9 @@ try your best to make a pull request instead of having to ping me on discord <br
 we're running on the honor system here don't make every room unplayable <br/>
 
  ## currently editing
- daorex 
+  yakaki <br/>
 
  ## line
-  yakaki <br/>
   andytampan <br/>
   megarion <br/>
   helloffame <br/>
