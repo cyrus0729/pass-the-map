@@ -7,8 +7,8 @@ try your best to make a pull request instead of having to ping me on discord <br
 we're running on the honor system here don't make every room unplayable <br/>
 
  ## currently editing
-  andytampan <br/>
-
+  megarion <br/>
+  
  ## line
   megarion <br/>
   helloffame <br/>
