@@ -35,3 +35,6 @@ maybe the real 1000 bubbles were the friends we made along the way
 
 map_making_PassTheMap_l=
 L
+
+map_making_PassTheMap_yakiroom=
+yaki didnt map this so have fun
