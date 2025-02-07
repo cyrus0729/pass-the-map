@@ -17,5 +17,5 @@ we're running on the honor system here don't make every room unplayable <br/>
   r_pink47
 
 
-## waiting for
+## indeterminate (didnt seem to do anything at all)
    yakaki <br/>
