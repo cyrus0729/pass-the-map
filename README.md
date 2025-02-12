@@ -7,11 +7,9 @@ try your best to make a pull request instead of having to ping me on discord <br
 we're running on the honor system here don't make every room unplayable <br/>
 
  ## currently editing
-  megarion <br/>
+  helloffame <br/>
   
  ## line
-  megarion <br/>
-  helloffame <br/>
   tart <br/>
   goldenfaf <br/>
   r_pink47
@@ -19,3 +17,4 @@ we're running on the honor system here don't make every room unplayable <br/>
 
 ## indeterminate (didnt seem to do anything at all)
    yakaki <br/>
+   megarion <br/>
