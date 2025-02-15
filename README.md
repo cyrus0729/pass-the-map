@@ -7,10 +7,8 @@ try your best to make a pull request instead of having to ping me on discord <br
 we're running on the honor system here don't make every room unplayable <br/>
 
  ## currently editing
-  helloffame <br/>
-  
+    tart <br/>
  ## line
-  tart <br/>
   goldenfaf <br/>
   r_pink47
 
