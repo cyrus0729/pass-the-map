@@ -9,10 +9,10 @@ we're running on the honor system here don't make every room unplayable <br/>
  ## currently editing
     tart <br/>
  ## line
+  megarion <br/>
   goldenfaf <br/>
   r_pink47
 
 
 ## indeterminate (didnt seem to do anything at all)
    yakaki <br/>
-   megarion <br/>
