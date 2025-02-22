@@ -38,3 +38,27 @@ L
 
 map_making_PassTheMap_yakiroom=
 yaki didnt map this so have fun
+
+map_making_PassTheMap_hardroomunnerfed=
+BERRY ROOM: unnerfed tech compendium
+
+map_making_PassTheMap_hardroom=
+[TART left normal]
+{#000000}
+Hey there!
+It's me {~}{#b63f36}TART{#}{/~}
+Someone before me decided to put a dialogue box in this room,{n}{0.5} but forgot to associate any dialouge with it...
+Anyways sorry to say this room is like {0.25}{!}GM+7{/!}.
+Don't worry though,{0.5} I put a trigger to skip the whole thing in that comfy spot the arrow is pointing to.
+Have fun,{0.5} I'll be seeing you later probably.{#}
+
+map_making_PassTheMap_memorial=
+{#000000}
+[TART left normal]
+{~}{#b63f36}TART{#}{/~} here seeing you (probably) again.
+That dialouge back there wasn't actually added by me.
+It was added by aletris.
+No thanks to my hard drive {~}dying{/~}.{#}
+[d]
+You read the text.
+"This memorial here is dedicated to tart's dead hard drive."
