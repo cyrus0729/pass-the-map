@@ -1,4 +1,5 @@
 function onBegin()
+    if getFlag("youfuckedupboi") then return end
     disableMovement()
     wait(2)
     walk(20)
@@ -11,6 +12,4 @@ end
 function onEnd()
     enableMovement()
     setFlag("youfuckedupboi",true)
-    wait(1)
-    setFlag("youfuckedupboi",false)
 end
