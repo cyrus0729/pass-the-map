@@ -9,15 +9,21 @@
 # also can somebody make the audio my fmod's cursed
 
 ## currently editing
-	megarion <br/>
+	goldenfaf
 ## line
+<<<<<<< Updated upstream
 	goldenfaf <br/>
 	r_pink47 <br/>
 	poorlydrawncactus <br/>
  	crackerberries <br/>
+=======
+	r_pink47
+	poorlydrawncactus
+ 	crackerberries
+>>>>>>> Stashed changes
 
 ## indeterminate (didnt seem to do anything at all)
-	yakaki <br/>
+	yakaki
    
 # CREDITS
 	## room makers
