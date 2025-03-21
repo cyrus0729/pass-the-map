@@ -9,21 +9,10 @@
 # also can somebody make the audio my fmod's cursed
 
 ## currently editing
-	goldenfaf
-## line
-<<<<<<< Updated upstream
-	goldenfaf <br/>
 	r_pink47 <br/>
+## line
 	poorlydrawncactus <br/>
  	crackerberries <br/>
-=======
-	r_pink47
-	poorlydrawncactus
- 	crackerberries
->>>>>>> Stashed changes
-
-## indeterminate (didnt seem to do anything at all)
-	yakaki
    
 # CREDITS
 	## room makers
