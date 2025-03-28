@@ -9,10 +9,9 @@
 # also can somebody make the audio my fmod's cursed
 
 ## currently editing
-	r_pink47 <br/>
+	poorlydrawncactus
 ## line
-	poorlydrawncactus <br/>
- 	crackerberries <br/>
+ 	crackerberries
    
 # CREDITS
 	## room makers
